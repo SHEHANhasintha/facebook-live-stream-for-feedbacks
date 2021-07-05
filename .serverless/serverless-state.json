@@ -265,7 +265,7 @@
       "s3Sync": [
         {
           "bucketName": "my-serverless-react-app-4556-new-start-38974",
-          "localDir": "demoapp/build/"
+          "localDir": "build/"
         }
       ]
     },
@@ -390,7 +390,7 @@
     "appUid": "bKQgSVpxGgy1kVn0YL"
   },
   "package": {
-    "artifactDirectoryName": "serverless/shehanservice/dev/1625471109917-2021-07-05T07:45:09.917Z",
+    "artifactDirectoryName": "serverless/shehanservice/dev/1625491168332-2021-07-05T13:19:28.332Z",
     "artifact": ""
   }
 }
