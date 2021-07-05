@@ -17,7 +17,7 @@ custom:
     bucketName: my-serverless-react-app-4556-new-start-38974
     s3Sync:
         - bucketName: ${self:custom.bucketName}
-          localDir: build
+          localDir: ./build
 
 resources:
     Resources:
